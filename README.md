@@ -1,5 +1,5 @@
 # Hello,
-**If product cards didn't reder correctly(at all) you are probably facing this error in console:
+**If product cards didn't reder correctly(at all) you are probably facing this error in console:**
 ```
 Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://www.alza.cz/Services/RestService.svc/v2/products. (Reason: CORS header ‘Access-Control-Allow-Origin’ does not match ‘http://www.alza.cz’).
 Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://www.alza.cz/Services/RestService.svc/v2/products. (Reason: CORS request did not succeed).
